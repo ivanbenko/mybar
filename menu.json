@@ -19,11 +19,58 @@
             },
             "German Flag 1.0": {
                 "content": [],
-                "notes": ""
+                "notes": "coming soon..."
             }
         },
         "longDrinks": {
-
+            "Long Islang": {
+                "content": ["2cl White Rum", "2cl Triple Sec", "2cl Vodka", "2cl Silver Tequila", "2cl Gin", "1.5cl Simple syrup", "2cl Lemon Juice"],
+                "notes": "*****, almost everybody says it's the best cocktail"
+            },
+            "Mai Tai": {
+                "content": ["3cl White Rum", "1.5cl Black Rum", "1.5cl Triple Sec", "3cl Lime Juice", "1.5cl Orgeat syrup"],
+                "notes": "*****, sweet"
+            },
+            "Zombie v1.0": {
+                "content": ["3cl 80% Stroh Rum", "4.5cl Dark Rum", "3cl Cinnamon syrup", "3cl Lime juice", "4.5cl Grapefruit juice"],
+                "notes": "*****, strong, really strong - only one per person could be served"
+            },
+            "Zombie v1.1": {
+                "content": ["1.5cl 80% Stroh Rum", "4.5cl Dark Rum", "3cl Cinnamon syrup", "3cl Lime juice", "Grapefruit juice", "Ananas juice"],
+                "notes": "*****, sweeter, not so strong as v1.0"
+            },
+            "Cosmopolitan ": {
+                "content": ["4cl Vodka", "1.5cl Cointreau", "3cl Cranberry juice", "1.5cl Lime juice"],
+                "notes": "****"
+            },
+            "Martini": {
+                "content": ["6cl Gin", "3cl Dry Vermouth"],
+                "notes": "***, not sweet, tastes strong"
+            },
+            "Black Russian": {
+                "content": ["5cl Vodka", "3cl Coffee liquor"],
+                "notes": "*****"
+            },
+            "White Russian": {
+                "content": ["4cl Vodka", "3cl Coffee liquor", "3cl Cream"],
+                "notes": "*****, very delicious"
+            },
+            "Old Fashioned": {
+                "content": ["6cl Bourbon/Rye Whiskey", "Angostura bitters", "Orange bitters"],
+                "notes": "*****, one of the best"
+            },
+            "Rum with a twist": {
+                "content": ["6cl Aged Rum", "3cl Ramazotti", "1.5cl Red Vermouth"],
+                "notes": "*****, the best"
+            },
+            "Cuba libre": {
+                "content": ["6cl Spiced Rum", "1.5cl Lime juice", "Cola"],
+                "notes": "*****, sweet"
+            },
+            "Negroni": {
+                "content": ["3cl Campari", "3cl Gin", "3cl Red Vermouth"],
+                "notes": "****, very bitter"
+            }
         }
     }
 }
