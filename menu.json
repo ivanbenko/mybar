@@ -1,0 +1,29 @@
+{
+    "drinks": {
+        "shots": {
+            "B-52": {
+                "content": ["1.5cl Coffee liquor", "1.5cl Irish Cream", "1.5cl Triple Sec"],
+                "notes": "*****, flame"
+            },
+            "Buharest": {
+                "content": ["2cl Maracuja Syrup", "1.5cl White Rum", "1.5cl Campari"],
+                "notes": "****, Bitter-Sweet"
+            },
+            "Burning Henry": {
+                "content": ["1.5cl Bourbon", "1.5cl Amaretto", "1.5cl Irish Cream"],
+                "notes": "****, flame"
+            },
+            "Arabica": {
+                "content": ["1.5cl Granadine Syrup", "1.5cl Coffee liquor", "1.5cl Lemon juice", "1.5cl Silver Tequila"],
+                "notes": "***, so-so"
+            },
+            "German Flag 1.0": {
+                "content": [],
+                "notes": ""
+            }
+        },
+        "longDrinks": {
+
+        }
+    }
+}
