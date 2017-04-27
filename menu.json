@@ -18,8 +18,8 @@
                 "notes": "***, so-so"
             },
             "German Flag 1.0": {
-                "content": [],
-                "notes": "coming soon..."
+                "content": ["1.5cl Campari", "1.5cl Jagermeister", "1.5cl Sambuca"],
+                "notes": "****, you'll definitely start sprechen Deutsch!"
             }
         },
         "longDrinks": {
@@ -28,8 +28,8 @@
                 "notes": "*****, almost everybody says it's the best cocktail"
             },
             "Mai Tai": {
-                "content": ["3cl White Rum", "1.5cl Black Rum", "1.5cl Triple Sec", "3cl Lime Juice", "1.5cl Orgeat syrup"],
-                "notes": "*****, sweet"
+                "content": ["4cl White Rum", "2cl Black Rum", "1.5cl Triple Sec", "2cl Lime Juice", "2cl Orgeat syrup", "Ananas juice"],
+                "notes": "*****, delicious, sweet"
             },
             "Zombie v1.0": {
                 "content": ["3cl 80% Stroh Rum", "4.5cl Dark Rum", "3cl Cinnamon syrup", "3cl Lime juice", "4.5cl Grapefruit juice"],
